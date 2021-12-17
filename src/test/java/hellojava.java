@@ -5,5 +5,6 @@ public class hellojava {
         System.out.println(a + 5);
         System.out.println("Github repo is published");
         System.out.println("Doing more work");
+        System.out.println("Friday Today");
     }
 }
